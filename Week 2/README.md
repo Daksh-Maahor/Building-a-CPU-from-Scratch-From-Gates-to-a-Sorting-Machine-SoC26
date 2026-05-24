@@ -1,10 +1,7 @@
 # Week 2 — Important Circuits
 
 ## Objective
-Design the core building blocks of your CPU in Verilog.
-Every module you build this week will be instantiated inside
-the processor in weeks 5–8. Getting them right here, with
-passing testbenches, means you can trust them later.
+
 
 ---
 
